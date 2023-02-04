@@ -1,2 +1,2 @@
 # bibref
-paper reference BibTeX
+my paper reference
